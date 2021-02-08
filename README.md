@@ -1,2 +1,1 @@
-# Pixie
- Python based photo editor
+![](Images/banner.png)
